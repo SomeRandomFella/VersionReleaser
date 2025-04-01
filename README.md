@@ -1,5 +1,20 @@
 # VersionReleaser
 
+# BEFORE READING!
+
+this is for UNITY ONLY!
+
+
+
+
+
+
+
+
+
+
+
+
 ### Version Releaser! Why make a launcher when this is a thing?
 
 with this auto updater you can easily make a auto updater to automatically update your unity games!
