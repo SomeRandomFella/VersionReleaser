@@ -101,7 +101,7 @@ public class AutoUpdater : MonoBehaviour
         if (File.Exists(executablePath))
         {
             Process.Start(executablePath);
-            Application.Quit(); // Close the current game
+            Application.Quit(); 
         }
     }
 
